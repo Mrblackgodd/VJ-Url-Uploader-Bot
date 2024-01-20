@@ -10,7 +10,7 @@ class Translation(object):
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/Lordsakunaa">Admin</a></b>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -40,7 +40,7 @@ class Translation(object):
     TECH_VJ_ABOUT_TEXT = """
 <b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
-🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/vj_botz">ᴠᴊ ʙᴏᴛᴢ</a>
+🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/purplebotz">PURPLE BOTZ</a>
 
 🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 
@@ -48,16 +48,16 @@ class Translation(object):
 
 🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
 
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/Lordsakunaa">Admin</a></b>
 
 """
 
     
     TECH_VJ_START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🌟 𝐌𝐎𝐑𝐄 𝐁𝐎𝐓𝐒 🌟', url='https://t.me/ezpzsupport/17')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
+            InlineKeyboardButton('🔍 ', url='https://t.me/vj_bot_disscussion'),
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
         ], [
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
